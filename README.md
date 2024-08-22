@@ -1,4 +1,4 @@
-# Sandra Shitsukane's Portfolio - Solar-Panel-Website
+# Sandra Lavenda's Portfolio - Solar-Panel-Website
 
 This is my programming portfolio that details my past and present projects. 
 
@@ -8,7 +8,7 @@ This is my programming portfolio that details my past and present projects.
 
 # Getting Started 
 
-# This is my portfolio project designed HTML and CSS. Take it and make your own by setting it up in your local environment. Flow the steps below
+# This is my portfolio project designed HTML5 and CSS3. Take it and make your own by setting it up in your local environment. Flow the steps below
 
 To get a local copy up and running follow these simple steps.
 
@@ -31,11 +31,11 @@ git clone https://github.com/ProximaD/Portfolio.git
 
 . With the files open in Visual Studio Code, press the Go Live button at the bottom of the window to launch the files with Live Server.
 
-. You could alternatively right click and open the index.html with your browser
+. You could alternatively right-click and open the index.html with your browser
 
 # Authors
 
-👤Sandra Shitsukane
+👤Sandra Lavenda
 
 GitHub: ProximaD
 
