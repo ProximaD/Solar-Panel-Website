@@ -26,11 +26,13 @@ nav {
   display: flex;
   padding: 2.5% 5%;
 }
-nav img {
-  width: 250px;
-  height: 150px;
-  cursor: pointer;
+
+.nav__logo{
+  color: black;
+  font-weight:bold;
+  letter-spacing: 3px;
 }
+
 nav ul {
   text-align: right;
   flex: 1;
