@@ -2,6 +2,45 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,500;1,600&family=Montserrat:wght@600;700&display=swap");
 
 /* Custom CSS  */
+:root{
+  --black: #000;
+  --white: #fff;
+  --blue: #488cbd;
+
+
+  .section{
+    padding: 2rem 9%;
+  }
+
+  .heading{
+    text-align: center;
+    font-size: 4rem;
+    color: #333;
+    padding: 1rem;
+    margin: 2rem 0;
+    background: rgba(241, 238, 239, 0.5);
+  }
+
+  .heading span{
+    color: var(--black);
+  }
+
+  .btn{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 5rem;
+    background: #333;
+    color: #fff;
+    padding: .9rem 3.5rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+
+  .btn:hover{
+    background: var(--blue);
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
